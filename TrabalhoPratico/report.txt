@@ -1,0 +1,148 @@
+Inicio da simulacao: 
+Nao foram movidas pessoas!A pessoa Zulmira2A foi para o local 3.
+A pessoa PauloPires1 foi para o local 3.
+So podera recuar quando avancar pelo menos 1 iteracao.
+Nao tem backups!
+Lista de backups: 
+ Iteracao 1: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 3 
+   Tomas111 12 S  - Local: 4 
+   PauloPires2 67 D 10  - Local: 4 
+   LuisaSantos 40 D 3  - Local: 3 
+   Zulmira2A 17 S  - Local: 3 
+A pessoa PauloPires2 vai contaminar a pessoa Tomas111 (local: 4).A pessoa ficou doente.
+A pessoa PauloPires2 nao recuperou (dias doente: 11).
+A pessoa LuisaSantos vai contaminar a pessoa PauloPires1 (local: 3).A pessoa ficou doente.
+A pessoa LuisaSantos vai contaminar a pessoa AnaLebre34A (local: 3).A pessoa AnaLebre34A esta imune a esta doenca.
+A pessoa LuisaSantos nao recuperou (dias doente: 4).
+Lista de pessoas: 
+ PauloPires1 23 D 0
+ AnaLebre34A 55 I
+ Tomas111 12 D 0
+ PauloPires2 67 D 11
+ LuisaSantos 40 D 4
+ Zulmira2A 17 S
+Lista de backups: 
+ Iteracao 2: 
+   PauloPires1 23 D 0  - Local: 3 
+   AnaLebre34A 55 I  - Local: 3 
+   Tomas111 12 D 0  - Local: 4 
+   PauloPires2 67 D 11  - Local: 4 
+   LuisaSantos 40 D 4  - Local: 3 
+   Zulmira2A 17 S  - Local: 3 
+ Iteracao 1: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 3 
+   Tomas111 12 S  - Local: 4 
+   PauloPires2 67 D 10  - Local: 4 
+   LuisaSantos 40 D 3  - Local: 3 
+   Zulmira2A 17 S  - Local: 3 
+A pessoa PauloPires1 vai contaminar a pessoa AnaLebre34A (local: 3).A pessoa AnaLebre34A esta imune a esta doenca.
+A pessoa PauloPires1 vai contaminar a pessoa Zulmira2A (local: 3).A pessoa ficou doente.
+A pessoa PauloPires1 nao recuperou (dias doente: 1).
+A pessoa Tomas111 vai contaminar a pessoa PauloPires2 (local: 4).A pessoa PauloPires2 ja estava doente.
+A pessoa Tomas111 nao recuperou (dias doente: 1).
+A pessoa PauloPires2 vai contaminar a pessoa Tomas111 (local: 4).A pessoa Tomas111 ja estava doente.
+A pessoa PauloPires2 nao recuperou (dias doente: 12).
+A pessoa LuisaSantos vai contaminar a pessoa PauloPires1 (local: 3).A pessoa PauloPires1 ja estava doente.
+A pessoa LuisaSantos vai contaminar a pessoa AnaLebre34A (local: 3).A pessoa AnaLebre34A esta imune a esta doenca.
+A pessoa LuisaSantos nao recuperou (dias doente: 5).
+Lista de pessoas: 
+ PauloPires1 23 D 1
+ AnaLebre34A 55 I
+ Tomas111 12 D 1
+ PauloPires2 67 D 12
+ LuisaSantos 40 D 5
+ Zulmira2A 17 D 0
+Recuou 2 iteracoes com sucesso!
+Nao tem backups!
+A pessoa Zulmira2A foi para o local 1.
+A pessoa AnaLebre34A foi para o local 1.
+Lista de backups: 
+ Iteracao 1: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 1 
+   Tomas111 12 S  - Local: 4 
+   PauloPires2 67 D 10  - Local: 4 
+   LuisaSantos 40 D 3  - Local: 3 
+   Zulmira2A 17 S  - Local: 1 
+A pessoa PauloPires2 vai contaminar a pessoa Tomas111 (local: 4).A pessoa ficou doente.
+A pessoa PauloPires2 nao recuperou (dias doente: 11).
+A pessoa LuisaSantos nao recuperou (dias doente: 4).
+Lista de pessoas: 
+ PauloPires1 23 S
+ AnaLebre34A 55 I
+ Tomas111 12 D 0
+ PauloPires2 67 D 11
+ LuisaSantos 40 D 4
+ Zulmira2A 17 S
+Recuou 1 iteracoes com sucesso!
+Nao tem backups!
+Lista de backups: 
+ Iteracao 1: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 1 
+   Tomas111 12 S  - Local: 4 
+   PauloPires2 67 D 10  - Local: 4 
+   LuisaSantos 40 D 3  - Local: 3 
+   Zulmira2A 17 S  - Local: 1 
+A pessoa PauloPires2 vai contaminar a pessoa Tomas111 (local: 4).A pessoa ficou doente.
+A pessoa PauloPires2 nao recuperou (dias doente: 11).
+A pessoa LuisaSantos nao recuperou (dias doente: 4).
+Lista de pessoas: 
+ PauloPires1 23 S
+ AnaLebre34A 55 I
+ Tomas111 12 D 0
+ PauloPires2 67 D 11
+ LuisaSantos 40 D 4
+ Zulmira2A 17 S
+A pessoa Zulmira2A foi para o local 3.
+A pessoa AnaLebre34A foi para o local 3.
+Lista de backups: 
+ Iteracao 2: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 3 
+   Tomas111 12 D 0  - Local: 4 
+   PauloPires2 67 D 11  - Local: 4 
+   LuisaSantos 40 D 4  - Local: 3 
+   Zulmira2A 17 S  - Local: 3 
+ Iteracao 1: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 1 
+   Tomas111 12 S  - Local: 4 
+   PauloPires2 67 D 10  - Local: 4 
+   LuisaSantos 40 D 3  - Local: 3 
+   Zulmira2A 17 S  - Local: 1 
+A pessoa Tomas111 vai contaminar a pessoa PauloPires2 (local: 4).A pessoa PauloPires2 ja estava doente.
+A pessoa Tomas111 nao recuperou (dias doente: 1).
+A pessoa PauloPires2 nao recuperou (dias doente: 12).
+A pessoa LuisaSantos vai contaminar a pessoa PauloPires1 (local: 3).A pessoa ficou doente.
+A pessoa LuisaSantos vai contaminar a pessoa AnaLebre34A (local: 3).A pessoa AnaLebre34A esta imune a esta doenca.
+A pessoa LuisaSantos nao recuperou (dias doente: 5).
+Lista de pessoas: 
+ PauloPires1 23 D 0
+ AnaLebre34A 55 I
+ Tomas111 12 D 1
+ PauloPires2 67 D 12
+ LuisaSantos 40 D 5
+ Zulmira2A 17 S
+Recuou 1 iteracoes com sucesso!
+Lista de backups: 
+ Iteracao 1: 
+   PauloPires1 23 S  - Local: 3 
+   AnaLebre34A 55 I  - Local: 1 
+   Tomas111 12 S  - Local: 4 
+   PauloPires2 67 D 10  - Local: 4 
+   LuisaSantos 40 D 3  - Local: 3 
+   Zulmira2A 17 S  - Local: 1 
+Estatisticas da simulacao: 
+ Local 1: 4.00% pessoas (capacidade maxima: 50)
+ Local 2: 0.00% pessoas (capacidade maxima: 50)
+ Local 3: 4.00% pessoas (capacidade maxima: 50)
+ Local 4: 4.00% pessoas (capacidade maxima: 50)
+ Taxa de Saudaveis: 50.00%
+ Taxa de Infetados: 33.33%
+ Taxa de Imunes: 16.67%
+ Total de pessoas na simulacao: 6
+Fim da simulacao. 
